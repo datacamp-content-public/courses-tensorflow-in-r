@@ -1,6 +1,7 @@
 ---
-title: 'Chapter Title Here'
+title: 'The Basics'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Example coding exercise
